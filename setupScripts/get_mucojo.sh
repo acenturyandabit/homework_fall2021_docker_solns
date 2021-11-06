@@ -6,4 +6,4 @@ mv mujoco200_linux mujoco200
 rm mujoco200_linux.zip
 mv /root/setupScripts/mjkey.txt .
 
-export LD_LIBRARY_PATH=/root/.mujoco/mujoco200/bin/
+export LD_LIBRARY_PATH=/root/.mujoco/mujoco200/bin
